@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+time for changing - are you ready?
+If not, Contact Elon Musk.
